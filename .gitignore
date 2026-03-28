@@ -1,0 +1,19 @@
+# Scilab
+*.bin
+*.graph
+*.log
+*.tmp
+*.bak
+*.sav
+*.zip
+*.tar
+*.gz
+
+# macOS
+.DS_Store
+
+# IDEs and Text Editors
+.vscode/
+.idea/
+*.swp
+*~
